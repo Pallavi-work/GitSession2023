@@ -1,7 +1,7 @@
 Changed: written third line of story
 Author Name: Pallavi P
 
-Today is Friday (6th October, 2023)
+Today is Saturday (7th October, 2023)
 
 Good day to all!!! How are you all?
 Enjoying Git Session
