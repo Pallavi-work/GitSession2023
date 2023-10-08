@@ -1,0 +1,8 @@
+JIRA No 3: Testing the Git  
+
+
+Workflow:
+Developer has written some code which is in DEV Branch
+Testing Team has approved the code after testing and given confirmation for QAT Branch promote
+Sync the source Branch (DEV) and destination Branch (QAT)
+We will promote SELECTED code from DEV to QAT branch
