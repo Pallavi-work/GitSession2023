@@ -1,0 +1,25 @@
+JIRA No 4: Re-Checking the Branches 
+
+
+
+Workflow:
+Developer has written some code which is in DEV Branch
+Testing Team has approved the code after testing and given confirmation for QAT Branch promote
+Sync the source Branch (DEV) and destination Branch (QAT)
+We will promote SELECTED code from DEV to QAT branch
+
+DEV - Development Branch
+
+QAT - Quality Assurance Testing Branch
+
+
+
+Switched to source branch (DEV)  (Switch/Checkout command)
+Sync local source with remote source branch
+Switched to destination branch (QAT) (Switch/Checkout command)
+Sync local destination branch with remote destination branch
+Cherry pick from DEV LOCAL into QAT LOCAL branch
+Commit from QAT Local to QAT Remote branch
+
+
+
